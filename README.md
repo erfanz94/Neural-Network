@@ -2,8 +2,11 @@
 This course covers the basic concepts and algorithm of Neural Networks
 
 *Perceptrons
+
 *Lease Mean Square
+
 *Back Propagation
+
 *Self Organizing Map
 
 Textbook for reference: Neural Networks and Learning Machines,3rd Edition, Simon Haykin, Pearson Education,
